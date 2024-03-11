@@ -1,2 +1,4 @@
 .DS_Store
 data.csv
+cleaned_data.csv
+.ipynb_checkpoints/
